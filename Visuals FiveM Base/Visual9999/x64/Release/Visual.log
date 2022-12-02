@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\MND\Desktop\Visuals FiveM Base\Visual9999\VisualsBypass.hpp(95,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\MND\Desktop\Visuals FiveM Base\Visual9999\includes.h(11,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+  Code wird generiert.
+  3 of 1159 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Visual.vcxproj -> C:\Users\MND\Desktop\Visuals FiveM Base\Visual9999\x64\Release\Visual.dll
